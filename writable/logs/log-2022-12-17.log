@@ -7,3 +7,37 @@ in APPPATH\Controllers\Home.php on line 11.
  5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
  6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 12:31:54 --> syntax error, unexpected token ")", expecting "->" or "?->" or "{" or "["
+in APPPATH\Views\libros\listar.php on line 24.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/listar', [], true)
+ 3 APPPATH\Controllers\Libros.php(10): view('libros/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 12:40:14 --> Undefined constant "App\Controllers\view"
+in APPPATH\Controllers\Libros.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 12:41:40 --> Undefined constant "App\Controllers\view"
+in APPPATH\Controllers\Libros.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 12:42:04 --> Undefined constant "App\Controllers\view"
+in APPPATH\Controllers\Libros.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 13:02:31 --> Undefined variable $nombre
+in APPPATH\Controllers\Libros.php on line 24.
+ 1 APPPATH\Controllers\Libros.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'APPPATH\\Controllers\\Libros.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

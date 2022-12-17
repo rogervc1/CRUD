@@ -1,11 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document Title</title>
-</head>
-<body>
-    Lista de Libros
-</body>
-</html>
+<?=$cabecera ?>
+
+<a href="<?=base_url('crear')?>">Crear un libro</a>
+
+        <table class="table table-light">
+            <thead class="thead-light">
+                <tr>
+                    <th>#</th>
+                    <th>Imagen</th>
+                    <th>Nombre</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach($libros as $libro): ?>
+                <tr>
+                    <td><?= $libro['id']; ?></td>
+                    <td><?= $libro['imagen']; ?></td>
+                    <td><?= $libro['nombre']; ?></td>
+                    <td>Editar/Borrar</td>
+                </tr>   
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+        <?=$pie ?>
