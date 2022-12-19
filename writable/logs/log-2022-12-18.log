@@ -1,0 +1,324 @@
+CRITICAL - 2022-12-18 17:08:55 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:09:14 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:09:22 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:11:50 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:13:09 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:14:00 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:15:34 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:15:34 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:16:17 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:19:49 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:19:51 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:19:51 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:19:51 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:20:14 --> syntax error, unexpected token "=", expecting "]"
+in APPPATH\Controllers\Libros.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:20:29 --> syntax error, unexpected token "=", expecting "]"
+in APPPATH\Controllers\Libros.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:20:30 --> syntax error, unexpected token "=", expecting "]"
+in APPPATH\Controllers\Libros.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:20:30 --> syntax error, unexpected token "=", expecting "]"
+in APPPATH\Controllers\Libros.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:21:27 --> syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Controllers\Libros.php on line 35.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:30:10 --> syntax error, unexpected end of file
+in APPPATH\Config\Routes.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(430): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:43:02 --> unlink(../public/uploads/imagenNode.jpg): No such file or directory
+in APPPATH\Controllers\Libros.php on line 40.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagenNode.jpg): No such file or directory', 'APPPATH\\Controllers\\Libros.php', 40)
+ 2 APPPATH\Controllers\Libros.php(40): unlink('../public/uploads/imagenNode.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->borrar('2')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:43:18 --> unlink(../public/uploads/imagenNode.jpg): No such file or directory
+in APPPATH\Controllers\Libros.php on line 40.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagenNode.jpg): No such file or directory', 'APPPATH\\Controllers\\Libros.php', 40)
+ 2 APPPATH\Controllers\Libros.php(40): unlink('../public/uploads/imagenNode.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->borrar('2')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:44:56 --> unlink(../public/uploads/imagen.jpg): No such file or directory
+in APPPATH\Controllers\Libros.php on line 40.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagen.jpg): No such file or directory', 'APPPATH\\Controllers\\Libros.php', 40)
+ 2 APPPATH\Controllers\Libros.php(40): unlink('../public/uploads/imagen.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->borrar('1')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:55:47 --> Undefined variable $datos
+in APPPATH\Controllers\Libros.php on line 45.
+ 1 APPPATH\Controllers\Libros.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Controllers\\Libros.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:56:11 --> Undefined variable $cabecera
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 APPPATH\Views\libros\editar.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\editar.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\editar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 5 APPPATH\Controllers\Libros.php(45): view('libros/editar')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 17:58:11 --> Undefined variable $cabecera
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 APPPATH\Views\libros\editar.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\editar.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\editar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 5 APPPATH\Controllers\Libros.php(45): view('libros/editar')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:02:11 --> Undefined constant "cabecera"
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 4 APPPATH\Controllers\Libros.php(50): view('libros/editar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:02:30 --> Undefined constant "cabecera"
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 4 APPPATH\Controllers\Libros.php(50): view('libros/editar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:03:14 --> Undefined constant "cabecera"
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 4 APPPATH\Controllers\Libros.php(50): view('libros/editar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:04:06 --> Undefined constant "cabecera"
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 4 APPPATH\Controllers\Libros.php(50): view('libros/editar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:04:06 --> Undefined constant "cabecera"
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 4 APPPATH\Controllers\Libros.php(50): view('libros/editar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:04:06 --> Undefined constant "cabecera"
+in APPPATH\Views\libros\editar.php on line 1.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/editar', [], true)
+ 4 APPPATH\Controllers\Libros.php(50): view('libros/editar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->editar('4')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:26:20 --> syntax error, unexpected single-quoted string "max_size[imagen,1024]", expecting "]"
+in APPPATH\Controllers\Libros.php on line 64.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 18:26:47 --> syntax error, unexpected single-quoted string "max_size[imagen,1024]", expecting "]"
+in APPPATH\Controllers\Libros.php on line 64.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
